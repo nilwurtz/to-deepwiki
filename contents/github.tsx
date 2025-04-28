@@ -18,15 +18,12 @@ window.addEventListener("load", () => {
   }
 
   const [, user, repo] = match
-  console.log("user:", user)
-  console.log("repo:", repo)
 
   // deepwikiへのリンクを作成
   const deepwikiUrl = `https://deepwiki.com/${user}/${repo}`
 
   // ナビゲーションバーの要素を取得
   const navBar = document.querySelector("nav[role='navigation']")
-  console.log("navBar:", navBar)
 
   if (!navBar) {
     console.error("Navigation bar not found")

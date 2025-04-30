@@ -32,6 +32,3 @@ To Deepwikiは、GitHubリポジトリページに便利なDeepwikiリンクを�
 - [💻 使用方法](./docs/ja/usage.md)
 - [🔧 開発方法](./docs/ja/development.md)
 
-## 📄 ライセンス
-
-このプロジェクトはMITライセンスの下で公開されています - 詳細はLICENSEファイルをご覧ください。

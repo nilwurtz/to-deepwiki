@@ -2,6 +2,8 @@
 
 A Chrome extension that adds Deepwiki links to GitHub repository pages.
 
+![Image](docs/images/image.png)
+
 [![Version](https://img.shields.io/github/v/release/nilwurtz/to-deepwiki?include_prereleases&style=flat-square)](https://github.com/nilwurtz/to-deepwiki/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
